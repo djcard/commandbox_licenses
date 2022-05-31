@@ -4,7 +4,7 @@
     "changelog":"",
     "contributors":[],
     "dependencies":{},
-    "description":"",
+    "description":"Reads the modules of a Coldbox site and displays / exports the license data from the modules and their dependencies",
     "devDependencies":{},
     "documentation":"",
     "homepage":"",
@@ -25,10 +25,10 @@
     "location":"ForgeboxStorage",
     "name":"CommandBox Licenses",
     "private":false,
-    "projectURL":"",
+    "projectURL":"https://github.com/djcard/commandbox_licenses",
     "repository":{
-        "type":"",
-        "URL":""
+        "type":"git",
+        "URL":"https://github.com/djcard/commandbox_licenses"
     },
     "scripts":{},
     "shortDescription":"Reads the dependencies of a project and presents what can be gleaned about the licenses of the supporting modules. ",
